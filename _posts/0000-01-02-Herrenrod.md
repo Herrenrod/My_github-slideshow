@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Present Simple"
 ---
-<H1>Oben ist das Leben bunt!</H1>
+<p>Paul usually <b>eats</b> lunch at the school canteen with his friend.</p>
 Use the left arrow to go back!
